@@ -63,7 +63,7 @@ function App() {
 
   return (
     <Layout>
-      <H1>Cults Workshop</H1>
+      <H1>Champ McChampyChamp</H1>
       <Nav>
         <Link to="/" className={pathname === '/' ? 'selected' : ''}>
           Collection
